@@ -29,7 +29,7 @@ export const list: List[] = [
 export const social: Social[] = [
   {
     icon: FiGithub,
-    link: "https://github.com/Fanny-BR",
+    link: "https://github.com/FannyDevz",
     title: "Github",
   },
   {
