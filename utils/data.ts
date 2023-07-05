@@ -83,14 +83,6 @@ export const project: Project[] = [
     live: "#",
     image: Classroom,
   },
-  {
-    title: "School Management System",
-    desc: "I have developed a Laravel-based school management system. It simplifies school administration with features like student enrollment, attendance tracking, grade management, and communication tools. The system ensures secure authentication and efficient data management, streamlining school operations and improving communication between stakeholders.",
-    tech: "Laravel, PHP, Javascript, Bootstrap CSS",
-    link: "https://github.com/FannyDevz/Siakad",
-    live: "#",
-    image: Classroom,
-  },
 ];
 
 export const otherProject: Project[] = [
@@ -130,7 +122,7 @@ export const otherProject: Project[] = [
 export const experience: Experience[] = [
   {
     id: 0,
-    title:"Jayahost",
+    title: "Jayahost",
     date: "May 2023 - Now",
     story:
         "At Jayahost, I am a programmer responsible for managing multiple applications, with a particular focus on employee attendance management in a business setting. One of these applications is Karirku, a comprehensive business management tool. Within Karirku, I contribute to the development and enhancement of features related to employee attendance tracking. This includes designing and implementing functionalities such as clock-in/out systems, shift scheduling, leave management, and generating attendance reports.Additionally, I also work on other applications like WHMCS, where I customize and extend its functionality for smooth web hosting management, and Chatku, where I develop chat functionalities integrated with features like chatbots and encryption.",

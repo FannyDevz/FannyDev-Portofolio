@@ -25,7 +25,7 @@ export interface Project {
 
 export interface Experience {
   id: number;
-  title: string;
+  title?: string;
   date: string;
   story: string;
 }
