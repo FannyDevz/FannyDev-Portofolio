@@ -37,13 +37,13 @@ export default function Navbar() {
             </a>
           </li>
         ))}
-        <li>
-          <button className="btn w-20 p-5">
-            <a href="resume.pdf" download="resume.pdf">
-              Resume
-            </a>
-          </button>
-        </li>
+        {/*<li>*/}
+          {/*<button className="btn w-20 p-5">*/}
+          {/*  <a href="resume.pdf" download="resume.pdf">*/}
+          {/*    Resume*/}
+          {/*  </a>*/}
+          {/*</button>*/}
+        {/*</li>*/}
       </m.ul>
 
       {/*Menu Navigation*/}
@@ -69,13 +69,13 @@ export default function Navbar() {
             <a href={`#${item.link}`}>{item.title}</a>
           </li>
         ))}
-        <li>
-          <button className="btn w-28 p-5 py-6">
-            <a href="resume.pdf" download="resume.pdf">
-              Resume
-            </a>
-          </button>
-        </li>
+        {/*<li>*/}
+          {/*<button className="btn w-28 p-5 py-6">*/}
+          {/*  <a href="resume.pdf" download="resume.pdf">*/}
+          {/*    Resume*/}
+          {/*  </a>*/}
+          {/*</button>*/}
+        {/*</li>*/}
       </ul>
     </nav>
   );
