@@ -6,9 +6,9 @@ import { motion as m } from "framer-motion";
 export default function About() {
   const tech: string[] = [
     "PHP",
+    "Java",
     "JavaScript",
-    "CSS",
-    "SQL",
+    "React",
     "NodeJS",
     "And Anything",
   ];
