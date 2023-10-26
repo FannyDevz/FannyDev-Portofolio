@@ -10,6 +10,8 @@ export default function About() {
     "JavaScript",
     "React",
     "NodeJS",
+    "Go",
+    "WordPress",
     "And Anything",
   ];
   return (
