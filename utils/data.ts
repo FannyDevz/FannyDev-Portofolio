@@ -56,7 +56,6 @@ export const project: Project[] = [
     desc: "I have developed a customized homepage that enhances user experience by incorporating various features. The design reflects the client's brand and style preferences. Users can save their favorite websites using the bookmark functionality for easy access. A weather widget displays real-time weather conditions. Additionally, a Google search engine is integrated for convenient web searching directly from the homepage. These features combine to create a personalized and user-friendly browsing experience.",
     tech: "Laravel, PHP, Javascript, Bootstrap CSS",
     link: "https://github.com/FannyDevz/HomepageWithBookmark",
-    live: "#",
     image: Homepage,
   },
   {
@@ -64,7 +63,6 @@ export const project: Project[] = [
     desc: "In my project, I have developed an attendance system that incorporates geolocation and photo features, accompanied by a landing page. This system allows users to clock in and out using geolocation technology, automatically recording their attendance location. Additionally, users can take a photo for further verification. The well-designed landing page provides easy access to the attendance features and important information related to the attendance process.",
     tech: "PHP, JavaScript, VueJs, Bootstrap CSS",
     link: "https://github.com/FannyDevz/",
-    live: "https://karir.fanny.nix.id",
     image: Karir,
   },
   {
@@ -72,7 +70,6 @@ export const project: Project[] = [
     desc: "I have developed a Laravel-based decision support system for infant malnutrition. It utilizes various factors such as weight, height, age, and dietary information to accurately assess and diagnose malnutrition in infants. This system aids healthcare professionals in making informed decisions and creating personalized treatment plans. With efficient data management and a user-friendly interface, the system enables effective monitoring and intervention for addressing infant malnutrition.",
     tech: "Laravel, VueJS, PHP, Bootstrap CSS, Javascript",
     link: "https://github.com/FannyDevz/Sistem-Pakar-Malnutrisi",
-    live: "https://abrinsa.fanny.nix.id/",
     image: Malnutition,
   },
   {
@@ -80,7 +77,6 @@ export const project: Project[] = [
     desc: "I have developed an online learning system using Laravel. It provides a platform for educational institutions and individuals to deliver and manage online courses. With features like user registration, course enrollment, and progress tracking, it offers a flexible and interactive learning environment. The system utilizes the Laravel framework for secure authentication and efficient data management, enhancing the overall online learning experience.",
     tech: "Laravel, PHP, Javascript, Bootstrap CSS",
     link: "https://github.com/FannyDevz/Classroom",
-    live: "#",
     image: Classroom,
   },
 ];
@@ -88,19 +84,17 @@ export const project: Project[] = [
 export const otherProject: Project[] = [
   {
     id: 0,
-    title: "Pharmacy Management",
-    desc: "I have developed a web-based pharmacy management system. It simplifies pharmacy operations with features like inventory management, prescription handling, and sales tracking. The system improves efficiency, inventory control, and customer service. With a user-friendly interface and secure data management, it supports effective pharmacy management.",
-    tech: "PHP, JS, CSS",
+    title: "Anime List",
+    desc: "I created a system for an anime forum by utilizing public A.P.I. available, making it easier for me to mark the anime I watch and discuss with my friends about existing anime",
+    tech: "NextJS ,ReactJS",
     link: "https://github.com/FannyDevz",
-    live: "#",
   },
   {
     id: 1,
-    title: "SIMRS For Hospital",
-    desc: "I have developed a Java-based hospital information system. It manages patient registration, appointment scheduling, medical records, billing, and reporting. The system improves operational efficiency and patient care coordination within the hospital.",
-    tech: "Java, Javascript, PHP, CSS",
+    title: "Anime Streaming",
+    desc: "I created a system for streaming anime by utilizing public A.P.I. available, making it easier to watch anime that I like",
+    tech: "NodeJS",
     link: "https://github.com/FannyDevz",
-    live: "#",
   },
   {
     id: 2,
@@ -108,7 +102,6 @@ export const otherProject: Project[] = [
     desc: "I have developed a web-based chatbot that utilizes AI and natural language processing. It provides automated assistance and real-time responses to user inquiries. The chatbot improves user experience and customer service by offering efficient solutions and information.",
     tech: "VueJS, JavaScript, PHP",
     link: "https://github.com/FannyDevz",
-    live: "#",
   },
   {
     id: 3,
@@ -116,7 +109,20 @@ export const otherProject: Project[] = [
     desc: "I have developed a billing system that automates invoice generation, payment tracking, and financial management. It streamlines billing processes, reduces errors, and improves efficiency for businesses. With features like invoice customization and payment reminders, the system ensures accurate and timely financial control.",
     tech: "PHP, JavaScript, CSS",
     link: "https://github.com/FannyDevz",
-    live: "#",
+  },
+  {
+    id: 4,
+    title: "Pharmacy Management",
+    desc: "I have developed a web-based pharmacy management system. It simplifies pharmacy operations with features like inventory management, prescription handling, and sales tracking. The system improves efficiency, inventory control, and customer service. With a user-friendly interface and secure data management, it supports effective pharmacy management.",
+    tech: "PHP, JS, CSS",
+    link: "https://github.com/FannyDevz",
+  },
+  {
+    id: 5,
+    title: "SIMRS For Hospital",
+    desc: "I have developed a Java-based hospital information system. It manages patient registration, appointment scheduling, medical records, billing, and reporting. The system improves operational efficiency and patient care coordination within the hospital.",
+    tech: "Java, Javascript, PHP, CSS",
+    link: "https://github.com/FannyDevz",
   },
 ];
 export const experience: Experience[] = [
